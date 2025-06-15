@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repo to learn Docker with examples. Contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
@@ -360,3 +361,6 @@ latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb82
 ```
 
 ### You must be feeling like a champ already 
+=======
+# Docker-demo
+>>>>>>> 87769fdad895fd2d65f78654880a9b0166ec4738
